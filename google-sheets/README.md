@@ -21,8 +21,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Analyze age statistics of paying users (average, median, min, max).
   - Add totals row for all metrics across products.
 - **Result:** Completed metrics table for all games.
-- **Screenshots:** `assets/task1.png`
-
+- **Screenshots:** ![Product Metrics](assets/task1.png)
 ---
 
 ### 2️⃣ User Engagement Analysis
