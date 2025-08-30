@@ -31,7 +31,8 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Compute average age, standard deviation, median, interquartile range, 10th and 90th percentiles.
   - Calculate DAU, WAU, and stickiness.
 - **Result:** Engagement metrics and weekly user activity insights.
-- **Screenshots:** ![Engagement Analysis](assets/task2.png,assets/task2.1.png)
+- **Screenshots:** ![Engagement Analysis](assets/task2.png)
+- ![Engagement Analysis](assets/task2.1.png)
 
 ---
 
