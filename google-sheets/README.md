@@ -32,7 +32,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Calculate DAU, WAU, and stickiness.
 - **Result:** Engagement metrics and weekly user activity insights.
 - **Screenshots:** ![Engagement Analysis](assets/task2.png)
-- ![Engagement Analysis](assets/task2.1.png)
+- [Engagement Analysis](assets/task2.1.png)
 
 ---
 
