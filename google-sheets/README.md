@@ -44,7 +44,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Forecast DAU and WAU for new weeks.
   - Build 4 charts: bar chart, pie chart, combo chart, line chart with trendline.
 - **Result:** Visualized forecasts and user trends.
-- **Screenshots:** `assets/task3.png`
+- **Screenshots:** ![combo chart](assets/task3.png)
 
 ---
 
