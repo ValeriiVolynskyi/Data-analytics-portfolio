@@ -69,7 +69,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Add slicers for game, activity type, and user language.
   - Calculate retention rates and apply gradient formatting.
 - **Result:** Interactive cohort analysis and retention insights.
-- **Screenshots:** `assets/task5.png`
+- **Screenshots:** ![cohort table](assets/task5.png)
 
 ---
 
