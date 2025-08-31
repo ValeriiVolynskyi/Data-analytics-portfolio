@@ -61,11 +61,16 @@ The main goal was to analyze campaign performance, calculate key marketing metri
 ---
 
 ## 📂 Repository Structure
+
+```
 SQL/
 ├── README.md
 ├── scripts/
-│ ├── Script-1.sql
-│ ├── Script-2.sql
-│ ├── Script-3.sql
-│ ├── Script-4.sql
-│ └── Script-5.sql
+│   ├── Script-1.sql
+│   ├── Script-2.sql
+│   ├── Script-3.sql
+│   ├── Script-4.sql
+│   └── Script-5.sql
+
+```
+
