@@ -57,7 +57,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
   - Build cohort analysis using pivot tables.
   - Visualize activity trends with line charts.
 - **Result:** Cleaned dataset with pivot tables and charts.
-- **Screenshots:** `assets/task4.png`
+- **Screenshots:** ![line charts](assets/task4.png)
 
 ---
 
