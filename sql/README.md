@@ -60,6 +60,20 @@ The main goal was to analyze campaign performance, calculate key marketing metri
 
 ---
 
+## 📊 Summary
+
+Through this SQL project, I practiced and strengthened the following skills:
+
+- Writing aggregation queries with `AVG`, `MIN`, `MAX`.  
+- Calculating key metrics such as **ROMI**.  
+- Grouping and analyzing data by **weeks** and **months** using `DATE_TRUNC`.  
+- Applying **window functions** (`LAG`, `ROW_NUMBER`) to track trends and continuous periods.  
+- Identifying **top-N values**, maximums, and growth rates across campaigns.  
+- Combining multiple datasets (Google Ads, Facebook Ads) for comparative analysis.  
+- Working with PostgreSQL in **DBeaver** as the main SQL environment.  
+
+---
+
 ## 📂 Repository Structure
 
 ```
