@@ -3,7 +3,7 @@
 This project focuses on analyzing online advertising campaigns across **Google** and **Facebook**.  
 The tasks include calculating aggregated metrics, identifying top-performing days, analyzing campaign efficiency, and investigating continuous ad set activity.  
 
-The work was performed in **PostgreSQL (via DBeaver)** using the dataset `ads_analysis_goit_course`.  
+The work was performed in **PostgreSQL (via DBeaver)** using the datasets with advertising campaign data from **Google Ads** and **Facebook Ads**.    
 
 ---
 
