@@ -18,7 +18,7 @@ This provides a baseline for understanding spending behavior and detecting unusu
 
 **Result:** Identified daily spending ranges for each platform, highlighting spending variability.  
 
-**SQL Script:** (./scripts/Script-1.sql)
+**SQL Script:** [Script-1 Project.sql](./scripts/Script-1.sql)
 
 **Example Output:**  
 ![Daily Spend Aggregates](./assets/task1_output.png)  
