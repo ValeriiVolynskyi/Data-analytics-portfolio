@@ -18,7 +18,7 @@ This provides a baseline for understanding spending behavior and detecting unusu
 
 **Result:** Identified daily spending ranges for each platform, highlighting spending variability.  
 
-👉 [View Script](./scripts/Script-1.sql)
+👉 [View Script-1](./scripts/Script-1.sql)
 
 **Example Output:**  
 ![Daily Spend Aggregates](./assets/task1_output.png)  
@@ -37,7 +37,7 @@ This helps to analyze which specific days brought the **best return on marketing
 
 **Result:** Found the five days with the most efficient ad spend.  
 
-👉 [View Script2](./scripts/Script-1.sql)
+👉 [View Script-2](./scripts/Script-2.sql)
 
 **Example Output:**  
 ![Top-5 ROMI](./assets/task2_output.png)  
@@ -56,7 +56,7 @@ This shows which campaign generated the greatest overall contribution in a singl
 
 **Result:** Found the top-performing campaign and its respective record week.  
 
-**SQL Script:** [Script-3 Project.sql](./Script-3%20Project.sql)  
+👉 [View Script-3](./scripts/Script-3.sql) 
 
 **Example Output:**  
 ![Weekly Value Leader](./assets/task3_output.png)  
@@ -75,7 +75,7 @@ This analysis highlights campaigns that experienced rapid audience expansion.
 
 **Result:** Identified the campaign with the sharpest audience growth.  
 
-**SQL Script:** [Script-4 Project.sql](./Script-4%20Project.sql)  
+👉 [View Script-4](./scripts/Script-4.sql) 
 
 **Example Output:**  
 ![MoM Reach Growth](./assets/task4_output.png)  
@@ -94,7 +94,7 @@ This shows persistence in daily campaign exposure.
 
 **Result:** Identified the ad set with the longest continuous run.  
 
-**SQL Script:** [Script-5 Project.sql](./Script-5%20Project.sql)  
+👉 [View Script-5](./scripts/Script-5.sql)
 
 **Example Output:**  
 ![Longest Continuous Adset](./assets/task5_output.png)  
@@ -126,6 +126,7 @@ SQL/
 │   ├── Script-3.sql
 │   ├── Script-4.sql
 │   └── Script-5.sql
+└── assets/ # Screenshots of results
 
 ```
 
