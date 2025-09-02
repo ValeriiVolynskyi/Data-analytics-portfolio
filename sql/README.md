@@ -120,13 +120,13 @@ By exploring different perspectives (spending, ROMI, weekly value, growth, and c
 ```
 SQL/
 ├── README.md
+├── assets/ # Screenshots of results
 ├── scripts/
 │   ├── Script-1.sql
 │   ├── Script-2.sql
 │   ├── Script-3.sql
 │   ├── Script-4.sql
 │   └── Script-5.sql
-└── assets/ # Screenshots of results
 
 ```
 
