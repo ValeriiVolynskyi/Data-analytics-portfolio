@@ -14,7 +14,7 @@ The work was performed in **PostgreSQL (via DBeaver)** using the dataset `ads_an
 **Goal:** Calculate and compare the **average, maximum, and minimum daily spend** across Google and Facebook campaigns.  
 This provides a baseline for understanding spending behavior and detecting unusually high or low outliers.  
 
-**SQL techniques used:** Aggregate functions (AVG, MAX, MIN), GROUP BY, filtering by platform.  
+**SQL techniques used:** Aggregate functions (AVG, MAX, MIN), GROUP BY,  UNION ALL, filtering by platform.  
 
 **Result:** Identified daily spending ranges for each platform, highlighting spending variability.  
 
@@ -37,7 +37,7 @@ This helps to analyze which specific days brought the **best return on marketing
 
 **Result:** Found the five days with the most efficient ad spend.  
 
-**SQL Script:** [Script-2 Project.sql](./Script-2%20Project.sql)  
+👉 [View Script2](./scripts/Script-1.sql)
 
 **Example Output:**  
 ![Top-5 ROMI](./assets/task2_output.png)  
