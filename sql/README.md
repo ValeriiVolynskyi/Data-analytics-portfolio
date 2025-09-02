@@ -1,76 +1,122 @@
-# SQL Practice Projects
+# SQL Advertising Campaign Analysis  
 
-This folder contains my SQL practice tasks completed in **PostgreSQL** using **DBeaver**.  
-The project is based on datasets with advertising campaign data from **Google Ads** and **Facebook Ads**.  
-The main goal was to analyze campaign performance, calculate key marketing metrics, and practice advanced SQL queries.
+This project focuses on analyzing online advertising campaigns across **Google** and **Facebook**.  
+The tasks include calculating aggregated metrics, identifying top-performing days, analyzing campaign efficiency, and investigating continuous ad set activity.  
 
----
-
-## 📊 Tasks Overview
-
-### Task 1 — Daily Spend Aggregation
-**Goal:** Calculate aggregated metrics (average, max, min) of daily ad spend separately for Google Ads and Facebook Ads.  
-**SQL techniques used:** `UNION ALL`, `GROUP BY`, aggregate functions (`AVG`, `MAX`, `MIN`).  
-**Result:** Built daily spend overview that helps to quickly compare spending patterns across platforms.  
-
-👉 [View Script](./scripts/Script-1.sql)
+The work was performed in **PostgreSQL (via DBeaver)** using the dataset `ads_analysis_goit_course`.  
 
 ---
 
-### Task 2 — Top-5 Days by ROMI
-**Goal:** Find the top 5 days with the highest ROMI (Return on Marketing Investment) across both platforms.  
-**SQL techniques used:** `WITH`, filtering data, `SUM`, calculating ratios, `ORDER BY ... DESC LIMIT`.  
-**Result:** Identified days with the most efficient ad spend, which can be used for budgeting decisions.  
+## Tasks  
 
-👉 [View Script](./scripts/Script-2.sql)
+### Task 1. Daily Spend Aggregates  
 
----
+**Goal:** Calculate and compare the **average, maximum, and minimum daily spend** across Google and Facebook campaigns.  
+This provides a baseline for understanding spending behavior and detecting unusually high or low outliers.  
 
-### Task 3 — Weekly Campaign Value
-**Goal:** Determine the campaign with the highest total weekly value.  
-**SQL techniques used:** `DATE_TRUNC`, table joins, aggregation by campaign, `LIMIT`.  
-**Result:** Discovered which campaign delivered the best performance at the weekly level.  
+**SQL techniques used:** Aggregate functions (AVG, MAX, MIN), GROUP BY, filtering by platform.  
 
-👉 [View Script](./scripts/Script-3.sql)
+**Result:** Identified daily spending ranges for each platform, highlighting spending variability.  
 
----
+**SQL Script:** (./scripts/Script-1.sql)
 
-### Task 4 — MoM Reach Growth
-**Goal:** Find the campaign with the largest month-to-month growth in reach.  
-**SQL techniques used:** Window functions (`LAG`), percentage growth calculations.  
-**Result:** Highlighted the fastest-growing campaign in terms of audience reach.  
+**Example Output:**  
+![Daily Spend Aggregates](./assets/task1_output.png)  
 
-👉 [View Script](./scripts/Script-4.sql)
+**Interpretation:**  
+These results help evaluate cost control. By comparing Google vs. Facebook, it becomes clear which platform tends to have more consistent or volatile spending patterns.  
 
 ---
 
-### Task 5 — Longest Continuous Adset Run
-**Goal:** Write a query that returns the adset name and duration of the longest continuous daily run (across Google and Facebook).  
-**SQL techniques used:** Consecutive date sequences, grouping, and calculating streaks.  
-**Result:** Identified the adset with the longest uninterrupted run.  
+### Task 2. Top-5 Days by ROMI  
 
-👉 [View Script](./scripts/Script-5.sql)
+**Goal:** Identify the **top-5 days** with the highest ROMI values across Google and Facebook ads.  
+This helps to analyze which specific days brought the **best return on marketing investments**.  
+
+**SQL techniques used:** WITH, filtering data, SUM, calculating ratios, ORDER BY ... DESC LIMIT.  
+
+**Result:** Found the five days with the most efficient ad spend.  
+
+**SQL Script:** [Script-2 Project.sql](./Script-2%20Project.sql)  
+
+**Example Output:**  
+![Top-5 ROMI](./assets/task2_output.png)  
+
+**Interpretation:**  
+Such analysis highlights which days performed best, helping in planning budgets for future campaigns and reallocating spend to high-return periods.  
 
 ---
 
-## 🛠️ Tools
-- PostgreSQL  
-- DBeaver  
-- SQL (CTEs, JOINs, aggregation, window functions)
+### Task 3. Weekly Value Leader  
+
+**Goal:** Identify the **campaign with the highest total weekly value** across all advertising activities.  
+This shows which campaign generated the greatest overall contribution in a single week.  
+
+**SQL techniques used:** DATE_TRUNC for weekly grouping, SUM for value aggregation, ORDER BY DESC LIMIT.  
+
+**Result:** Found the top-performing campaign and its respective record week.  
+
+**SQL Script:** [Script-3 Project.sql](./Script-3%20Project.sql)  
+
+**Example Output:**  
+![Weekly Value Leader](./assets/task3_output.png)  
+
+**Interpretation:**  
+Knowing which campaign achieved the highest weekly results allows marketers to replicate strategies that worked and investigate conditions that contributed to peak performance.  
 
 ---
 
-## 📊 Summary
+### Task 4. Highest Month-to-Month Reach Growth  
 
-Through this SQL project, I practiced and strengthened the following skills:
+**Goal:** Determine the **campaign with the greatest month-over-month reach growth**.  
+This analysis highlights campaigns that experienced rapid audience expansion.  
 
-- Writing aggregation queries with `AVG`, `MIN`, `MAX`.  
-- Calculating key metrics such as **ROMI**.  
-- Grouping and analyzing data by **weeks** and **months** using `DATE_TRUNC`.  
-- Applying **window functions** (`LAG`, `ROW_NUMBER`) to track trends and continuous periods.  
-- Identifying **top-N values**, maximums, and growth rates across campaigns.  
-- Combining multiple datasets (Google Ads, Facebook Ads) for comparative analysis.  
-- Working with PostgreSQL in **DBeaver** as the main SQL environment.  
+**SQL techniques used:** DATE_TRUNC for months, SUM for reach calculation, LAG() for month-to-month comparison, ORDER BY growth DESC LIMIT.  
+
+**Result:** Identified the campaign with the sharpest audience growth.  
+
+**SQL Script:** [Script-4 Project.sql](./Script-4%20Project.sql)  
+
+**Example Output:**  
+![MoM Reach Growth](./assets/task4_output.png)  
+
+**Interpretation:**  
+These insights are valuable for spotting campaigns that gained strong momentum, helping to analyze why they grew quickly and whether such growth is sustainable.  
+
+---
+
+### Task 5. Longest Continuous Adset Activity  
+
+**Goal:** Find the **ad set (from both Google and Facebook)** that ran for the longest uninterrupted sequence of days.  
+This shows persistence in daily campaign exposure.  
+
+**SQL techniques used:** Window functions (LAG), CASE WHEN, grouping sequences, calculating streak lengths.  
+
+**Result:** Identified the ad set with the longest continuous run.  
+
+**SQL Script:** [Script-5 Project.sql](./Script-5%20Project.sql)  
+
+**Example Output:**  
+![Longest Continuous Adset](./assets/task5_output.png)  
+
+**Interpretation:**  
+Detecting long-running ad sets helps evaluate whether consistent exposure improves engagement, conversions, or brand awareness over time.  
+
+---
+
+## Summary  
+
+This SQL project demonstrates:  
+- Proficiency in **PostgreSQL queries** and **data analysis**.  
+- Ability to use **aggregations, ratios, window functions, and time-based grouping**.  
+- Practical application of SQL for **marketing performance analysis**.  
+
+By exploring different perspectives (spending, ROMI, weekly value, growth, and continuity), the project shows how SQL can uncover actionable insights for optimizing campaigns.  
+
+---
+
+## Repository Structure  
+
 
 ---
 
