@@ -7,7 +7,7 @@ The work was performed in **PostgreSQL (via DBeaver)** using the dataset `ads_an
 
 ---
 
-## Tasks  
+## 📊 Tasks Overview
 
 ### Task 1. Daily Spend Aggregates  
 
@@ -18,7 +18,7 @@ This provides a baseline for understanding spending behavior and detecting unusu
 
 **Result:** Identified daily spending ranges for each platform, highlighting spending variability.  
 
-**SQL Script:** [Script-1 Project.sql](./scripts/Script-1.sql)
+👉 [View Script](./scripts/Script-1.sql)
 
 **Example Output:**  
 ![Daily Spend Aggregates](./assets/task1_output.png)  
@@ -104,7 +104,7 @@ Detecting long-running ad sets helps evaluate whether consistent exposure improv
 
 ---
 
-## Summary  
+## 📊 Summary  
 
 This SQL project demonstrates:  
 - Proficiency in **PostgreSQL queries** and **data analysis**.  
@@ -112,11 +112,6 @@ This SQL project demonstrates:
 - Practical application of SQL for **marketing performance analysis**.  
 
 By exploring different perspectives (spending, ROMI, weekly value, growth, and continuity), the project shows how SQL can uncover actionable insights for optimizing campaigns.  
-
----
-
-## Repository Structure  
-
 
 ---
 
