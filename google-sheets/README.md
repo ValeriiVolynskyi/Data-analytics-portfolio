@@ -16,13 +16,9 @@ The work was performed entirely in **Google Sheets**, combining formulas, functi
 ### 1️⃣ Product Metrics Analysis
 **Goal:** Calculate core **product metrics** (Total Revenue, Paid Users Count, CR to Paid, ARPPU, Average & Median Age, Min/Max Age).  
 This task establishes a foundation for evaluating the performance of games and their user bases.  
-
 **Techniques used:** SUMIF, COUNTIF, AVERAGEIF, MEDIAN, conditional aggregations.  
-
 **Result:** Built a consolidated product metrics table per game, plus totals across all games.  
-
 - **Screenshots:** ![Product Metrics](assets/task1.png)
-
 **Interpretation:**  
 These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and understand the demographics of paying users.  
 
