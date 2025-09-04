@@ -30,7 +30,7 @@ Filtered by **2021** and events:
 
 **Result:** Generated a clean dataset for BI analysis with only relevant events.  
 
-👉 [View Query](YOUR_LINK_HERE)  
+👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:f54ab0fd312e4e14ad97c0f477b6a879  )  
 
 **Interpretation:**  
 This dataset is the foundation for analytics and reporting. It ensures BI dashboards are built only on meaningful and consistent GA4 events.  
