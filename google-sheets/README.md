@@ -25,14 +25,12 @@ These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and under
 ---
 
 ### 2️⃣ Variability and Engagement Metrics  
-
 - **Goal:** Measure **variability of user ages** and calculate **engagement metrics** (DAU, WAU, stickiness).  
 This provides insight into user activity distribution and product health.  
 - **Techniques used:** AVERAGE, STDEV, MEDIAN, PERCENTILE, COUNTUNIQUEIFS, SUMIF, DATE formulas.  
 - **Result:** Generated statistical variability measures and built DAU/WAU sheets with stickiness ratio.  
 - **Screenshots:** ![Engagement Analysis](assets/task2.png)
 - [DAU, WAU, and stickiness](assets/task2.1.png)
-  
 - **Interpretation:**  
 The variability analysis showed user age spread, while DAU/WAU revealed retention trends and stickiness as a key engagement metric.  
 
