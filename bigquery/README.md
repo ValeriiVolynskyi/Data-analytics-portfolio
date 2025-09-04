@@ -48,7 +48,7 @@ This dataset is the foundation for analytics and reporting. It ensures BI dashbo
 
 **Result:** Produced a conversion funnel table showing step-by-step drop-off for each traffic channel and campaign.  
 
-👉 [View Query](YOUR_LINK_HERE)  
+👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:797fafd2ae2d4585a49f2904850a9454 )  
 
 **Interpretation:**  
 This analysis highlights which channels bring **high-quality users** that move through the funnel to purchase. It provides insights for optimizing marketing budgets across campaigns.  
@@ -66,7 +66,7 @@ This analysis highlights which channels bring **high-quality users** that move t
 
 **Result:** Calculated unique sessions, purchases, and conversion rates for each landing page.  
 
-👉 [View Query](YOUR_LINK_HERE)  
+👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:68304f1c89e0441dac604383b07c8895)  
 
 **Interpretation:**  
 Shows which landing pages are most effective in driving purchases. Helps identify **high-performing entry points** and optimize underperforming ones.  
