@@ -1,7 +1,9 @@
 # 📊 Google Sheets Practice Projects
 
-This repository contains a set of practical assignments in Google Sheets for learning data analytics.  
-All tasks were focused on product metrics, user engagement, cohort analysis, and visualization.
+This project focuses on practicing **data analysis and product metrics** using **Google Sheets**.  
+The tasks cover calculating KPIs, analyzing variability and engagement, applying regression for forecasting, building pivot tables, and performing cohort analysis.  
+The work was performed entirely in **Google Sheets**, combining formulas, functions, and visualizations.  
+
 
 > Note: Screenshots show highlights; full dataset, formulas, and tables are available via the Google Sheets link.
 - **Link to Google Sheets:
@@ -9,7 +11,7 @@ All tasks were focused on product metrics, user engagement, cohort analysis, and
 - https://docs.google.com/spreadsheets/d/1i4trDLumkYXpb2Kbo7wsAfOTuDeMwjPRPnyI3naUarU/edit?usp=sharing
  
 
-## Assignments
+## 📊 Tasks Overview  
 
 ### 1️⃣ Product Metrics Analysis
 - **Goal:** Calculate product metrics and evaluate efficiency of user acquisition costs.
