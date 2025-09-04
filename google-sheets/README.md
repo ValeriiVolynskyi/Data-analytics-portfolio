@@ -24,13 +24,12 @@ These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and under
 
 ---
 
-### 2️⃣ User Engagement Analysis
-- **Goal:** Calculate engagement metrics and variability statistics.
-- **Tools/Functions:** AVERAGE, STDEV, MEDIAN, PERCENTILE, COUNTUNIQUEIFS
-- **Tasks:** 
-  - Compute average age, standard deviation, median, interquartile range, 10th and 90th percentiles.
-  - Calculate DAU, WAU, and stickiness.
-- **Result:** Engagement metrics and weekly user activity insights.
+### 2️⃣ Variability and Engagement Metrics  
+
+- **Goal:** Measure **variability of user ages** and calculate **engagement metrics** (DAU, WAU, stickiness).  
+This provides insight into user activity distribution and product health.  
+- **Techniques used:** AVERAGE, STDEV, MEDIAN, PERCENTILE, COUNTUNIQUEIFS, SUMIF, DATE formulas.  
+- **Result:** Generated statistical variability measures and built DAU/WAU sheets with stickiness ratio.  
 - **Screenshots:** ![Engagement Analysis](assets/task2.png)
 - [DAU, WAU, and stickiness](assets/task2.1.png)
   
