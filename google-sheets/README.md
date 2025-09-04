@@ -24,6 +24,10 @@ The work was performed entirely in **Google Sheets**, combining formulas, functi
   - Add totals row for all metrics across products.
 - **Result:** Completed metrics table for all games.
 - **Screenshots:** ![Product Metrics](assets/task1.png)
+
+**Interpretation:**  
+These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and understand the demographics of paying users.  
+
 ---
 
 ### 2️⃣ User Engagement Analysis
