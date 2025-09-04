@@ -36,15 +36,14 @@ The variability analysis showed user age spread, while DAU/WAU revealed retentio
 
 ---
 
-### 3️⃣ Linear Regression & Charts
-- **Goal:** Use linear regression to forecast metrics and build charts.
-- **Tools/Functions:** FORECAST, ROUND, chart tools (bar, pie, combo, trendline)
-- **Tasks:** 
-  - Prepare fixed and sorted values for WAU.
-  - Forecast DAU and WAU for new weeks.
-  - Build 4 charts: bar chart, pie chart, combo chart, line chart with trendline.
-- **Result:** Visualized forecasts and user trends.
+### 3️⃣ Forecasting with Linear Regression  
+- **Goal:** Apply **linear regression** to forecast DAU and WAU, and visualize engagement trends.  
+This demonstrates how historical data can be used for predictive insights.  
+- **Techniques used:** FORECAST, ROUND, UNIQUE, sorting data, chart building in Google Sheets.  
+- **Result:** Extended DAU/WAU series with 20 future weeks and built multiple charts (bar, pie, line, combo chart with trendline).  
 - **Screenshots:** ![combo chart](assets/task3.png)
+- **Interpretation:**  
+Forecasting allowed to anticipate user activity trends, while charts made the results more interpretable for business decision-making.  
 
 ---
 
