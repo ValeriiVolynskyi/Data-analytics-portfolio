@@ -14,12 +14,12 @@ The work was performed entirely in **Google Sheets**, combining formulas, functi
 ## 📊 Tasks Overview  
 
 ### 1️⃣ Product Metrics Analysis
-**Goal:** Calculate core **product metrics** (Total Revenue, Paid Users Count, CR to Paid, ARPPU, Average & Median Age, Min/Max Age).  
+- **Goal:** Calculate core **product metrics** (Total Revenue, Paid Users Count, CR to Paid, ARPPU, Average & Median Age, Min/Max Age).  
 This task establishes a foundation for evaluating the performance of games and their user bases.  
-**Techniques used:** SUMIF, COUNTIF, AVERAGEIF, MEDIAN, conditional aggregations.  
-**Result:** Built a consolidated product metrics table per game, plus totals across all games.  
+- **Techniques used:** SUMIF, COUNTIF, AVERAGEIF, MEDIAN, conditional aggregations.  
+- **Result:** Built a consolidated product metrics table per game, plus totals across all games.  
 - **Screenshots:** ![Product Metrics](assets/task1.png)
-**Interpretation:**  
+- **Interpretation:**  
 These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and understand the demographics of paying users.  
 
 ---
@@ -34,7 +34,7 @@ These metrics help analyze monetization efficiency (ARPPU, CR to Paid) and under
 - **Screenshots:** ![Engagement Analysis](assets/task2.png)
 - [DAU, WAU, and stickiness](assets/task2.1.png)
   
-**Interpretation:**  
+- **Interpretation:**  
 The variability analysis showed user age spread, while DAU/WAU revealed retention trends and stickiness as a key engagement metric.  
 
 ---
