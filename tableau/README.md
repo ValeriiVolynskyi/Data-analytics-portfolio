@@ -54,5 +54,3 @@ This Tableau portfolio demonstrates:
 
 ---
 
-## 📂 Repository Structure  
-
