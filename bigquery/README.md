@@ -1,4 +1,4 @@
-# BigQuery GA4 Analysis  
+# 📊 BigQuery GA4 Analysis  
 
 This project focuses on analyzing **Google Analytics 4 (GA4)** event data using **BigQuery**.  
 The tasks include preparing datasets, building conversion funnels, and comparing landing page performance.  
