@@ -1,4 +1,4 @@
-# Tableau Projects  
+# 📊 Tableau Projects  
 
 This section includes dashboards built in **Tableau**, with a focus on **revenue analysis, cohort dynamics, user funnels, and conversion tracking**.  
 The data preparation was performed in **SQL**, followed by interactive visualization in Tableau.  
