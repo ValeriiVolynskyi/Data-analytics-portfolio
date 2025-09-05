@@ -43,7 +43,7 @@ This demonstrates how historical data can be used for predictive insights.
 - **Result:** Extended DAU/WAU series with 20 future weeks and built multiple charts (bar, pie, line, combo chart with trendline).  
 - **Screenshots:** ![combo chart](assets/task3.png)
 - [forecast DAU and WAU](assets/task3.1.png)
-- [forecast DAU and WAU](assets/task3.2.png)
+- [forecast DAU and WAU1](assets/task3.2.png)
 - **Interpretation:**  
 Forecasting allowed to anticipate user activity trends, while charts made the results more interpretable for business decision-making.  
 
