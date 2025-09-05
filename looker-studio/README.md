@@ -1,4 +1,4 @@
-#  Looker Studio Projects  
+# 📊 Looker Studio Projects  
 
 This section presents projects built in **Looker Studio**, focusing on **marketing efficiency analysis**.  
 The dashboards combine **Google Analytics 4 (GA4)** and **Google Sheets** data with interactive filters.  
