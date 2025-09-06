@@ -10,7 +10,7 @@ Dataset used:
 
 ## 📊 Tasks Overview  
 
-### Task 2. Data Preparation for BI  
+### Task 1. Data Preparation for BI  
 
 **Goal:** Build a dataset with key GA4 fields for BI tools. The table should include:  
 - `event_timestamp`  
@@ -37,7 +37,7 @@ This dataset is the foundation for analytics and reporting. It ensures BI dashbo
 
 ---
 
-### Task 3. Conversion by Date & Traffic Channel  
+### Task 2. Conversion by Date & Traffic Channel  
 
 **Goal:** Calculate the **conversion funnel** (visit → cart → checkout → purchase) broken down by **date, source, medium, campaign**.  
 
@@ -55,7 +55,7 @@ This analysis highlights which channels bring **high-quality users** that move t
 
 ---
 
-### Task 4. Conversion by Landing Page  
+### Task 3. Conversion by Landing Page  
 
 **Goal:** Compare different **landing pages** by their visit-to-purchase conversion rate using data for **2020**.  
 
