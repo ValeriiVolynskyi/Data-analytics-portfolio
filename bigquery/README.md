@@ -30,7 +30,7 @@ Filtered by **2021** and events:
 
 **Result:** Generated a clean dataset for BI analysis with only relevant events.  
 
-👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:f54ab0fd312e4e14ad97c0f477b6a879  )  
+👉 [View Query](script_bq1.sql)  
 
 **Interpretation:**  
 This dataset is the foundation for analytics and reporting. It ensures BI dashboards are built only on meaningful and consistent GA4 events.  
@@ -48,7 +48,7 @@ This dataset is the foundation for analytics and reporting. It ensures BI dashbo
 
 **Result:** Produced a conversion funnel table showing step-by-step drop-off for each traffic channel and campaign.  
 
-👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:797fafd2ae2d4585a49f2904850a9454 )  
+👉 [View Query](script_bq2.sql)  
 
 **Interpretation:**  
 This analysis highlights which channels bring **high-quality users** that move through the funnel to purchase. It provides insights for optimizing marketing budgets across campaigns.  
@@ -66,7 +66,7 @@ This analysis highlights which channels bring **high-quality users** that move t
 
 **Result:** Calculated unique sessions, purchases, and conversion rates for each landing page.  
 
-👉 [View Query](https://console.cloud.google.com/bigquery?sq=662420466890:68304f1c89e0441dac604383b07c8895)  
+👉 [View Query](script_bq3.sql)  
 
 **Interpretation:**  
 Shows which landing pages are most effective in driving purchases. Helps identify **high-performing entry points** and optimize underperforming ones.  
