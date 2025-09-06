@@ -48,7 +48,7 @@ This dataset is the foundation for analytics and reporting. It ensures BI dashbo
 
 **Result:** Produced a conversion funnel table showing step-by-step drop-off for each traffic channel and campaign.  
 
-👉 [View Query](bigquery/assets/script_bq1.sql)  
+👉 [View Query](./scripts//script_bq2.sql)  
 
 **Interpretation:**  
 This analysis highlights which channels bring **high-quality users** that move through the funnel to purchase. It provides insights for optimizing marketing budgets across campaigns.  
@@ -66,7 +66,7 @@ This analysis highlights which channels bring **high-quality users** that move t
 
 **Result:** Calculated unique sessions, purchases, and conversion rates for each landing page.  
 
-👉 [View Query](script_bq3.sql)  
+👉 [View Query](./scripts//script_bq3.sql)  
 
 **Interpretation:**  
 Shows which landing pages are most effective in driving purchases. Helps identify **high-performing entry points** and optimize underperforming ones.  
