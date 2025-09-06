@@ -33,7 +33,7 @@ Filtered by **2021** and events:
 👉 [View Query](./scripts//script_bq1.sql)  
 
 **Example Output:**  
-![Data Preparation for BI](./assets/task1_output.png)  
+![Data Preparation for BI](./assets/task1_bq_output.png)  
 
 **Interpretation:**  
 This dataset is the foundation for analytics and reporting. It ensures BI dashboards are built only on meaningful and consistent GA4 events.  
@@ -54,7 +54,7 @@ This dataset is the foundation for analytics and reporting. It ensures BI dashbo
 👉 [View Query](./scripts//script_bq2.sql)  
 
 **Example Output:**  
-![Conversion by Date & Traffic Channel](./assets/task2_output.png)  
+![Conversion by Date & Traffic Channel](./assets/task2_bq_output.png)  
 
 **Interpretation:**  
 This analysis highlights which channels bring **high-quality users** that move through the funnel to purchase. It provides insights for optimizing marketing budgets across campaigns.  
@@ -75,7 +75,7 @@ This analysis highlights which channels bring **high-quality users** that move t
 👉 [View Query](./scripts//script_bq3.sql)  
 
 **Example Output:**  
-![Conversion by Landing Page  ](./assets/task3_output.png)  
+![Conversion by Landing Page  ](./assets/task3_bq_output.png)  
 
 **Interpretation:**  
 Shows which landing pages are most effective in driving purchases. Helps identify **high-performing entry points** and optimize underperforming ones.  
