@@ -30,7 +30,7 @@ Filtered by **2021** and events:
 
 **Result:** Generated a clean dataset for BI analysis with only relevant events.  
 
-👉 [View Query](./script_bq1.sql)  
+👉 [View Query](./scripts//script_bq1.sql)  
 
 **Interpretation:**  
 This dataset is the foundation for analytics and reporting. It ensures BI dashboards are built only on meaningful and consistent GA4 events.  
