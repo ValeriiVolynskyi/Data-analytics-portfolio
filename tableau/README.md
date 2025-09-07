@@ -79,7 +79,7 @@ Enables trend tracking and understanding how sales and profit fluctuate under di
 
 **Result:** Visualized profitability matrix with subtotals across shipping modes and sub-categories.  
 
-🔗 [View Dashboard](#)  
+🔗 [View Dashboard](https://public.tableau.com/shared/83JG9NHFX?:display_count=n&:origin=viz_share_link)  
 
 **Interpretation:**  
 Helps quickly identify which product categories and delivery methods are **profitable vs. unprofitable**, supporting **data-driven business optimization**.  
