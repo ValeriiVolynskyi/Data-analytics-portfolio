@@ -1,39 +1,36 @@
 # 📊 Looker Studio Projects  
 
-This section presents projects built in **Looker Studio**, focusing on **marketing efficiency analysis**.  
-The dashboards combine **Google Analytics 4 (GA4)** and **Google Sheets** data with interactive filters.  
+This folder contains project built in **Looker Studio**, focusing on marketing performance and efficiency.  
+The dashboards are designed to provide **clear visibility of KPIs**, with interactive filters and data integration from **Google Analytics 4** and **Google Sheets**.  
 
 ---
 
-## 📊 Projects Overview  
+## 🔹 Marketing Efficiency Metrics  
 
-### 1. Marketing Efficiency Metrics  
-
-**Goal:** Build an interactive dashboard for visualizing **marketing KPIs**, including traffic, engagement, and conversions.  
-This enables marketing teams to quickly identify **successful vs. ineffective traffic channels** and optimize budgets.  
+**Goal:** Provide a **comprehensive overview of marketing campaign performance** by visualizing traffic, engagement, and conversions across multiple channels.  
+The aim is to enable marketing teams to identify effective and ineffective traffic sources and optimize campaign spend.  
 
 **Technics Used:**  
-- Data integration from GA4 and Google Sheets  
-- Interactive filters by **date range** and **traffic source**  
-- Visualization of campaign KPIs (traffic, engagement, conversion)  
+- Looker Studio interactive dashboards.  
+- Integration with **Google Analytics 4** and **Google Sheets**.  
+- Custom filters by **date range** and **traffic source**.  
+- Visualizations: KPI scorecards, line charts, bar charts, conversion metrics.  
 
-**Result:** Provided a powerful tool for in-depth analysis of **marketing performance**, enabling data-driven adjustments to campaigns.  
+**Result:** Delivered an interactive report with dynamic filters for flexible analysis of marketing efficiency.  
 
-👉 [View Dashboard](https://tinyurl.com/mrvkc7vz)  
+🔗 [View Dashboard](https://tinyurl.com/mrvkc7vz)  
 
 **Interpretation:**  
-The dashboard empowers marketing teams with **real-time insights**, helping improve **campaign effectiveness** and optimize **resource allocation**.  
+The dashboard became a tool for **data-driven marketing decisions**. It allowed the team to quickly identify **high-performing channels**, cut ineffective ones, and improve overall ROI through **targeted optimization**.  
 
 ---
 
 ## 📊 Summary  
 
-This Looker Studio project demonstrates:  
-- Experience in integrating **GA4 + Google Sheets** into BI tools  
-- Ability to design **flexible dashboards** with filters and interactive features  
-- Application of Looker Studio for **marketing analysis and decision-making**  
+This Looker Studio portfolio demonstrates:  
+- Ability to design **interactive and flexible dashboards**.  
+- Integration of multiple data sources (**GA4 + Google Sheets**).  
+- Focus on **KPI monitoring and marketing effectiveness**.  
+- Skills in providing **actionable insights** for business optimization.  
 
 ---
-
-## 📂 Repository Structure  
-
