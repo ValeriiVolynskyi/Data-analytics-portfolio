@@ -50,15 +50,13 @@ Forecasting allowed to anticipate user activity trends, while charts made the re
 ---
 
 ### 4️⃣ Text Functions, Dates & Pivot Tables
-- **Goal:** Work with text functions, dates, and pivot tables.
-- **Tools/Functions:** SPLIT, VLOOKUP, MINIFS, pivot tables, line charts
-- **Tasks:** 
-  - Split activity names and categorize them.
-  - Extract user language and activity months.
-  - Build cohort analysis using pivot tables.
-  - Visualize activity trends with line charts.
-- **Result:** Cleaned dataset with pivot tables and charts.
+- **Goal:** Use **text/date functions** to transform activity data and build a **pivot table for cohort analysis preparation**.  
+This task enhances data preprocessing and cohort segmentation skills.  
+- **Techniques used:** SPLIT, VLOOKUP, TEXT, MINIFS, derived date columns, pivot table creation.  
+- **Result:** Built enriched activity dataset with game/activity types, user language, activity month, and activity month number.  
 - **Screenshots:** ![line charts](assets/task4.png)
+- **Interpretation:**  
+By transforming data and categorizing activities, it became possible to group users into cohorts and analyze activity progression over months.  
 
 ---
 
