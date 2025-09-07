@@ -1,6 +1,6 @@
-# 📊 Looker Studio Projects  
+# 📊 Looker Studio
 
-This folder contains project built in **Looker Studio**, focusing on marketing performance and efficiency.  
+This folder contains task built in **Looker Studio**, focusing on marketing performance and efficiency.  
 The dashboards are designed to provide **clear visibility of KPIs**, with interactive filters and data integration from **Google Analytics 4** and **Google Sheets**.  
 
 ---
@@ -27,7 +27,7 @@ The dashboard became a tool for **data-driven marketing decisions**. It allowed 
 
 ## 📊 Summary  
 
-This Looker Studio portfolio demonstrates:  
+This Looker Studio task demonstrates:  
 - Ability to design **interactive and flexible dashboards**.  
 - Integration of multiple data sources (**GA4 + Google Sheets**).  
 - Focus on **KPI monitoring and marketing effectiveness**.  
