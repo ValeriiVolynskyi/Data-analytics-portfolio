@@ -1,56 +1,117 @@
 # 📊 Tableau Projects  
 
-This section includes dashboards built in **Tableau**, with a focus on **revenue analysis, cohort dynamics, user funnels, and conversion tracking**.  
-The data preparation was performed in **SQL**, followed by interactive visualization in Tableau.  
+This folder contains multiple Tableau projects demonstrating **data visualization**, **interactive dashboard building**, and **advanced BI techniques**.  
+The projects focus on **revenue analysis, user behavior, and delivery analytics**.  
 
 ---
 
-## 📊 Projects Overview  
+## 📊 Projects Overview 
 
-### 1. Revenue and Cohort Analysis  
+## 🔹 Project 1. Revenue and Cohort Analysis  
 
-**Goal:** Develop a dashboard for analyzing revenue by **product** and **location**, including **cohort analysis**, **new MMR dynamics**, and **total revenue trends**.  
-This provides a comprehensive understanding of **revenue growth** and **customer behavior patterns**.  
+**Goal:** Analyze revenue trends by product and location, including **cohort analysis**, **new MRR dynamics**, and **total revenue performance**, to understand customer behavior and product profitability.  
 
 **Technics Used:**  
-- SQL queries for cohort-based revenue aggregation  
-- Visualization of new MMR and total revenue differences  
-- Comparative charts by product and location  
+- SQL queries for data aggregation.  
+- Tableau visualizations: line charts, cohort tables, bar plots.  
+- Filters by product, time, and location.  
 
-**Result:** Delivered a clear view of revenue dynamics that supports decisions on **product portfolio optimization** and **marketing strategies**.  
+**Result:** Interactive dashboard showing cohort revenues, new MRR growth, and revenue breakdown by product and geography.  
 
-👉 [View Dashboard](https://tinyurl.com/23aa4j99)  
+🔗 [View Dashboard](https://tinyurl.com/23aa4j99)  
 
 **Interpretation:**  
-The dashboard allows stakeholders to monitor **customer retention, revenue growth, and product performance** in one place, helping teams adjust strategy based on data.  
+The analysis provided clear insights into **customer retention** and **revenue dynamics**, enabling better decisions for **product portfolio optimization** and **marketing strategy adjustment**.  
 
 ---
 
-### 2. Registration & Conversion Analysis  
+## 🔹 Project 2. Registration & Conversion Analysis  
 
-**Goal:** Create a dashboard with a **funnel diagram** to analyze user journey stages and a chart to track **registrations, activity, and conversions** over time.  
-The goal is to identify **bottlenecks in the user journey** and improve the overall conversion process.  
+**Goal:** Track the **user journey** from registration to conversion, identifying drop-off points and monitoring registration dynamics over time.  
 
 **Technics Used:**  
-- SQL for aggregating registrations, activity, and conversions  
-- Funnel visualization in Tableau to display user drop-off  
-- Comparative time-series charts for user activity  
+- Funnel visualization in Tableau.  
+- Comparative charts (registrations, active users, conversions).  
+- SQL queries optimized for session and conversion data.  
 
-**Result:** Increased transparency of funnel metrics and provided a tool for **monitoring user behavior**, enabling **faster problem detection** and **optimization of conversion paths**.  
+**Result:** Dashboard with funnel analysis and conversion trends across campaigns and traffic sources.  
 
-👉 [View Dashboard](https://tinyurl.com/2bkezdye)  
+🔗 [View Dashboard](https://tinyurl.com/2bkezdye)  
 
 **Interpretation:**  
-The dashboard provides insights into **where users leave the funnel** and supports targeted improvements in **registration and onboarding processes**.  
+This project improved **transparency of user journey metrics**. The funnel highlighted weak spots in conversion, allowing quick detection of bottlenecks and **faster process optimization**.  
+
+---
+
+## 🔹 Project 3. Superstore Sales Comprehensive Analysis  
+
+Dataset: Tableau’s **Superstore Sales**  
+
+---
+
+### Task 1. Sales & Profit Time Series  
+
+**Goal:** Build a **time series** of sales and profit (2020–2023), allowing segmentation by **Ship Mode** and **Segment**.  
+
+**Technics Used:**  
+- Dual-axis charts.  
+- Filters with "Apply" button.  
+- Y-axis formatting in USD.  
+
+**Result:** Clear comparison of sales vs. profit dynamics over time.  
+
+🔗 [View Dashboard](https://public.tableau.com/shared/FQ8MZS5R3?:display_count=n&:origin=viz_share_link)  
+
+**Interpretation:**  
+Enables trend tracking and understanding how sales and profit fluctuate under different conditions.  
+
+---
+
+### Task 2. Profitability by Sub-Category & Delivery Type  
+
+**Goal:** Analyze profitability across **categories, sub-categories, and shipping modes**.  
+
+**Technics Used:**  
+- Calculated field for relative profit (%).  
+- Hierarchical Category/Sub-Category dimension.  
+- Dual-color scale with **0 as midpoint**.  
+- Subtotals for rows and columns.  
+
+**Result:** Visualized profitability matrix with subtotals across shipping modes and sub-categories.  
+
+🔗 [View Dashboard](#)  
+
+**Interpretation:**  
+Helps quickly identify which product categories and delivery methods are **profitable vs. unprofitable**, supporting **data-driven business optimization**.  
+
+---
+
+### Task 3. Delivery Time Analysis  
+
+**Goal:** Investigate **order delivery times** and visualize them by shipping mode, delivery days distribution, and average delivery per US state.  
+
+**Technics Used:**  
+- Date calculations (Order Date – Ship Date).  
+- Distribution histograms.  
+- Gradient-filled map visualization.  
+- Combined dashboard with filters (Date, Segment, Shipping Type).  
+
+**Result:** Comprehensive dashboard combining delivery time KPIs with interactive filters.  
+
+🔗 [View Dashboard](#)  
+
+**Interpretation:**  
+Provides actionable insights into **logistics efficiency**, highlighting which shipping modes or regions need improvement.  
 
 ---
 
 ## 📊 Summary  
 
 This Tableau portfolio demonstrates:  
-- Proficiency in **building interactive dashboards** for cohorts, funnels, and KPIs  
-- Ability to integrate **SQL data preparation** into BI workflows  
-- Practical application of Tableau for **business insights and strategic decision-making**  
+- Proficiency in **building interactive dashboards** with filters, actions, and parameters.  
+- Use of **time series, funnel analysis, cohort analysis, maps, and profit distribution visualizations**.  
+- Ability to connect Tableau with SQL for advanced data preparation.  
+- Practical BI skills for analyzing **revenue, conversion, and operational efficiency**.  
 
 ---
 
