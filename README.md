@@ -15,4 +15,4 @@
 - Looker Studio – marketing efficiency reports
 
 ---
-  
+  Each project is documented with Goals, Techniques Used, Results, and Interpretations, making it easy to follow the logic and insights.
