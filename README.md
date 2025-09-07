@@ -1,5 +1,5 @@
 # Data-analytics-portfolio
-“Portfolio of Data Analytics projects (SQL, BigQuery, Tableau, Looker Studio, Google Sheets)”
+“Portfolio of Data Analytics projects (Google Sheets, BigQuery, SQL, Tableau, Looker Studio)”
 
 ---
 
