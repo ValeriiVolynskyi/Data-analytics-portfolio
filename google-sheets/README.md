@@ -61,21 +61,23 @@ By transforming data and categorizing activities, it became possible to group us
 ---
 
 ### 5️⃣ Cohort Analysis & Retention
-- **Goal:** Build cohort tables and calculate retention rates.
-- **Tools/Functions:** Pivot tables, IF, absolute references, conditional formatting
-- **Tasks:** 
-  - Create pivot tables by first activity month.
-  - Add slicers for game, activity type, and user language.
-  - Calculate retention rates and apply gradient formatting.
-- **Result:** Interactive cohort analysis and retention insights.
+- **Goal:** Perform **cohort analysis** based on the first activity month and calculate **retention rates**.  
+This highlights how user cohorts behave over time.  
+- **Techniques used:** Pivot tables, IF formulas, retention rate calculation, conditional formatting.  
+- **Result:** Built two cohort tables with filters (game, activity type, language) and retention heatmaps.  
 - **Screenshots:** ![cohort table](assets/task5.png)
+- **Interpretation:**  
+Cohort analysis showed user retention patterns and helped compare how long users from different acquisition months remained active.  
 
 ---
 
 ## 📌 Summary
-This project demonstrates my practical skills in Google Sheets for data analytics, including:  
-- Calculating product and user metrics  
-- Analyzing engagement and variability  
-- Forecasting with linear regression  
-- Working with text functions, dates, and pivot tables  
-- Building charts and cohort analyses
+This Google Sheets project demonstrates:  
+- Strong command of **formulas and functions** (SUMIF, AVERAGEIF, COUNTIF, FORECAST, etc.).  
+- Ability to calculate **key product and engagement metrics**.  
+- Application of **variability measures** (standard deviation, percentiles).  
+- Use of **forecasting techniques** with linear regression.  
+- Creation of **pivot tables** and **cohort analysis** with retention heatmaps.  
+- Data visualization through **charts** for clearer communication of insights.  
+
+By combining these skills, the project highlights practical applications of Google Sheets for product analytics and user engagement evaluation.  
