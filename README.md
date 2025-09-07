@@ -3,11 +3,12 @@
 
 ---
 
-- SQL – advertising campaign analysis and query optimization
 
 - Google Sheets – product and engagement metrics
 
 - BigQuery – GA4 data preparation and conversion analysis
+
+- SQL – advertising campaign analysis and query optimization
 
 - Tableau – dashboards for revenue, cohorts, and delivery analysis
 
