@@ -98,7 +98,7 @@ Helps quickly identify which product categories and delivery methods are **profi
 
 **Result:** Comprehensive dashboard combining delivery time KPIs with interactive filters.  
 
-🔗 [View Dashboard](https://public.tableau.com/shared/T8HT8YJ3H?:display_count=n&:origin=viz_share_link)  
+🔗 [View Dashboard](https://public.tableau.com/views/FinalProject_17553538408860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 **Interpretation:**  
 Provides actionable insights into **logistics efficiency**, highlighting which shipping modes or regions need improvement.  
