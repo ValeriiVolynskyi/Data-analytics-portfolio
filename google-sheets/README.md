@@ -66,6 +66,7 @@ This highlights how user cohorts behave over time.
 - **Techniques used:** Pivot tables, IF formulas, retention rate calculation, conditional formatting.  
 - **Result:** Built two cohort tables with filters (game, activity type, language) and retention heatmaps.  
 - **Screenshots:** ![cohort table](assets/task5.png)
+- ![cohort table](assets/task5.1.png)
 - **Interpretation:**  
 Cohort analysis showed user retention patterns and helped compare how long users from different acquisition months remained active.  
 
