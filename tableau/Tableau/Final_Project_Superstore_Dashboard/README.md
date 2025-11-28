@@ -35,7 +35,6 @@ The primary objective is to transform complex revenue data into an intuitive, de
   - Time-series visualisations
   - Segmented analysis (age, language)
   - Interactive filters and actions
-  - KPI panels for SaaS metrics
 - Metric design:
   - MRR analysis (New / Expansion / Contraction / Churn)
   - ARPPU calculation
@@ -70,7 +69,6 @@ The primary objective is to transform complex revenue data into an intuitive, de
 ## 📈 Interpretation
 
 This dashboard provides strategic value by allowing stakeholders to:
-- Monitor real-time revenue health and sustainability
 - Understand the relationship between user behavior and financial performance
 - Identify segments with the highest monetisation potential
 - Predict churn tendencies and plan retention strategies
