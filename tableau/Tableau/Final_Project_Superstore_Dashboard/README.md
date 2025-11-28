@@ -1,6 +1,6 @@
 # Final Tableau Project — SaaS Revenue Metrics Dashboard
 
-This project represents a full end-to-end analytical solution for evaluating revenue performance of a SaaS product.  
+This project represents a full end-to-end analytical solution for evaluating revenue performance of a SaaS product.
 The complete workflow covers data extraction and modeling in SQL, followed by in-depth visual analysis in Tableau.
 
 The dashboard provides a structured view of revenue dynamics, user behavior, and monetisation efficiency, allowing product and business teams to make informed strategic decisions.
