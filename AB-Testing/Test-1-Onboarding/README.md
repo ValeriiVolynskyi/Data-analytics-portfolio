@@ -43,7 +43,7 @@ Traffic & duration:
 - Required duration ≈ **29–30 days**
 
 - Reference calculator: https://www.evanmiller.org/ab-testing/sample-size.html#!4.9;80;5;0.5;0
-- ![Sample Size Calculation](./assets/sample-size.png)
+- ![Sample Size Calculation](./assets/sample-size1.png)
 
 ---
 
