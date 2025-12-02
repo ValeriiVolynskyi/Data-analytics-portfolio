@@ -42,7 +42,7 @@ Traffic & duration:
 - Per-group per day ≈ **1,000** (50/50 split)  
 - Required duration ≈ **29–30 days**
 
-- Reference sample-size calculator: https://www.evanmiller.org/ab-testing/sample-size.html#!4.9;80;5;0.5;0
+- Reference calculator: https://www.evanmiller.org/ab-testing/sample-size.html#!4.9;80;5;0.5;0
 - ![Sample Size Calculation](./assets/sample-size.png)
 
 ---
