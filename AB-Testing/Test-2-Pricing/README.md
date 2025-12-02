@@ -137,11 +137,3 @@ The cheaper tier reduces friction for first-time buyers, enlarging the paying au
 5. Analyze cohort performance over time  
 
 ---
-
-## Screenshots (Add Later)
-Folder: `AB-Testing/Test-2-Pricing/assets/`
-
-```md
-![Tariff Breakdown](./assets/test2_tariff_breakdown.png)
-![Metrics Table](./assets/test2_metrics_table.png)
-![ZTest](./assets/test2_ztest.png)
