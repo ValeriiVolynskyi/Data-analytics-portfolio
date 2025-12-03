@@ -108,7 +108,8 @@ Interpretation: new tier adds buyers rather than pulling them from premium.
 ## Statistical Significance (Z-test)
 Z ≈ –7.07  
 p-value ≈ 1.54 × 10⁻¹²  
-![ (Z-test Code)](./assets/Z-test2, Python.png)
+- ![Z-test Code](./assets/Z-test2, Python.png)
+- ![Sample Size Calculation](./assets/sample-size2.png)
 **p << 0.05 → statistically significant difference.**
 
 ---
