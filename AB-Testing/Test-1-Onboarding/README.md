@@ -67,7 +67,8 @@ Traffic & duration:
   - Absolute uplift: **+0.07 percentage points**
 
 **Statistical test**
-- Two-proportion test (Z-test / χ²):
+- Two-proportion test (Z-test):
+- - ![Z-test Code](./assets/Z-test1_python.png)
   - p-value ≈ **0.84**
   - Conclusion: **not statistically significant** (p ≫ 0.05)
 
