@@ -37,7 +37,8 @@ Required sample size: **≈41,500 users per group**
 Traffic: 3,000 users/day → 1,500 per group  
 Duration: **≈28 days**
 
-Calculator: https://www.evanmiller.org/ab-testing/sample-size.html
+- Calculator: https://www.evanmiller.org/ab-testing/sample-size.html
+- ![Sample Size Calculation](./assets/sample-size2.png)
 
 ---
 
