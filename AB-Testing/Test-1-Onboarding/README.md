@@ -66,7 +66,7 @@ Traffic & duration:
   - Treatment: `452 / 8,693 = 5.20%`
   - Absolute uplift: **+0.07 percentage points**
 
-**Statistical test**(Python)
+**Statistical test**, **(Python)**
 - Two-proportion test (Z-test):
 - - ![Z-test Code](./assets/Z-test1_python.png)
   - p-value ≈ **0.84**
