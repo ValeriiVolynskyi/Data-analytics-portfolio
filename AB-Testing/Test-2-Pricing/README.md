@@ -105,7 +105,7 @@ Interpretation: new tier adds buyers rather than pulling them from premium.
 
 ---
 
-## Two-proportion test (Z-test)
+## Two-proportion test (Z-test), (Python)
 Z ≈ –7.07  
 p-value ≈ 1.54 × 10⁻¹²  
 - ![Z-test Code](./assets/Z-test2_python.png)
