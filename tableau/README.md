@@ -60,7 +60,7 @@ Dataset: Tableau’s **Superstore Sales**
 
 **Result:** Clear comparison of sales vs. profit dynamics over time.  
 
-🔗 [View Dashboard](https://public.tableau.com/shared/FQ8MZS5R3?:display_count=n&:origin=viz_share_link)  
+🔗 [View Dashboard](https://public.tableau.com/shared/XNHY7DPB8?:display_count=n&:origin=viz_share_link)  
 
 **Interpretation:**  
 Enables trend tracking and understanding how sales and profit fluctuate under different conditions.  
