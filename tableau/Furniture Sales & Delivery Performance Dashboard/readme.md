@@ -21,6 +21,7 @@ The aim is to support **data-driven business decisions** related to sales growth
 
 **Result:**  
 Delivered a **single integrated dashboard** combining sales and delivery insights, enabling fast analysis of business performance from multiple perspectives.
+🔗 [View Dashboard](https://public.tableau.com/views/FurnitureSalesDeliveryAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
@@ -64,6 +65,4 @@ The dashboard serves as a practical tool for:
 - Identifying high- and low-performing regions.  
 - Detecting key products and categories driving revenue.  
 - Evaluating delivery efficiency and logistics bottlenecks.  
-
-🔗 [View Dashboard](https://public.tableau.com/views/FurnitureSalesDeliveryAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
